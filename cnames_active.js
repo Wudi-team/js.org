@@ -3492,6 +3492,7 @@ var cnames_active = {
   "writebar": "alexander-shvets.github.io/writebar",
   "wss": "iguanren.github.io/wss",
   "wstool": "sy-records.github.io/wstool", // noCF
+  "wudi": "Wudi-team.github.io/wudi", 
   "wugenqiang": "wugenqiang.github.io/wugenqiang.js.org",
   "www.next-auth": "cname.vercel-dns.com", // noCF
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
